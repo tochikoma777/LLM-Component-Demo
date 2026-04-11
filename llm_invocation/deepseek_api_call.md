@@ -4,7 +4,7 @@
 pip install openai  # DeepSeek 兼容 OpenAI SDK，直接复用
 ```
 
-```
+```python
 from openai import OpenAI
 
 # 通过Kaggle Secrets，安全管理API Key
